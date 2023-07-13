@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Jan Gogoll"
   avatar           : "profile.png"
-  bio              : ". I am interested in ethics, especially the ethics of AI and digitization in general. I am an experimental economist by training (PhD) and a philosopher at heart. I focus on ethical software development."
+  bio              : "I am an experimental economist by training (PhD) and a philosopher at heart. I focus on ethical software development."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=FzIB9qcAAAAJ&hl=en"
   email            : "jan.gogoll@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
