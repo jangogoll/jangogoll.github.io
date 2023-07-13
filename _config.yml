@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "&jangogoll"
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Dr. Jan Gogoll"
   avatar           : "1553000271607.jpeg"
   bio              : "I am an experimental economist by training (PhD) and a philosopher at heart. I focus on ethical software development."
-  location         : "Location"
+  location         : "Munich"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=FzIB9qcAAAAJ&hl=en"
