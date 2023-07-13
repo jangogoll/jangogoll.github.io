@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Autonomous cars: in favor of a mandatory ethics setting"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Science and Engineering Ethics'
+paperurl: 'https://www.researchgate.net/profile/Jan-Gogoll/publication/303665810_Autonomous_cars_In_favor_of_a_mandatory_ethics_setting/links/63fdba5357495059454cae1d/Autonomous-cars-In-favor-of-a-mandatory-ethics-setting.pdf'
+citation: 'Gogoll, J., & Müller, J. F. (2017). Autonomous cars: in favor of a mandatory ethics setting. Science and engineering ethics, 23, 681-700.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
