@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jan Gogoll"
+title                    : "Jan Gogol"
 title_separator          : "-"
 name                     : &name "Jan Gogoll"
 description              : &description "personal description"
