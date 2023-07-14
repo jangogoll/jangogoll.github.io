@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
+If you rather like the good old 90s feeling (like me) - check out the 90s version of my homepage @ https://jangogoll.github.io/page/
 
